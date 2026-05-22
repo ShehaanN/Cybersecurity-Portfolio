@@ -15,6 +15,10 @@ In this activity, I investigated a network security incident that affected a com
 
 In this activity, I worked as a cybersecurity analyst for yummyrecipesforme.com to investigate a website security incident. I analyzed network traffic, identified how a brute force attack allowed unauthorized access to the admin account, and examined how malicious code redirected users to a fake website. Based on the investigation, I recommended OS hardening and security measures to help prevent similar attacks in the future.
 
+### 4.1 Analyze Network Hardening
+
+In this activity, I analyzed a data breach in a social media organization, identified key network vulnerabilities, and proposed network hardening methods, including MFA, strong password policies, and firewall configuration improvements. I also explained how these security measures help reduce risks and prevent future attacks.
+
 _**Note:** For detailed instructions, see_ [Instructions](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/Instructions.md).
 
 ## Proposed Resolution
@@ -22,3 +26,4 @@ _**Note:** For detailed instructions, see_ [Instructions](https://github.com/S
 - **1.1 Network Layer Communication Analysis Report.md:** [Network Layer Communication Analysis Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/1.1%20Network%20Layer%20Communication%20Analysis%20Report.md)
 - **2.1 Network Attack Analysis Report.md:** [Network Attack Analysis Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/2.1%20Network%20Attack%20Analysis%20Report.md)
 - **3.1 OS Hardening Security Incident Report.md:** [OS Hardening Security Incident Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/3.1%20OS%20Hardening%20Security%20Incident%20Report.md)
+- **4.1 Network Hardening Security Risk Incident Report.md:** [Network Hardening Security Risk Incident Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/4.1%20Network%20Hardening%20Security%20Risk%20Incident%20Report.md)
