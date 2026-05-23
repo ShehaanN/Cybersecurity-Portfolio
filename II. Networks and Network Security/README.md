@@ -33,6 +33,4 @@ _**Note:** For detailed instructions, see_ [Instructions](https://github.com/S
 - **4.1 Network Hardening Security Risk Incident Report.md:** [Network Hardening Security Risk Incident Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/4.1%20Network%20Hardening%20Security%20Risk%20Incident%20Report.md)
 - **5.1 NIST CSF Analysis Report.md:** [NIST CSF Analysis Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/5.1%20NIST%20CSF%20Analysis%20Report.md)
 
-## Supporting Materials
 
-- **Wireshark TCP_HTTP log.xlsx:** [TCP_HTTP Log](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/Wireshark%20TCP_HTTP%20log.xlsx)
