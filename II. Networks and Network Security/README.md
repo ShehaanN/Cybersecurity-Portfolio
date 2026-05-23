@@ -19,6 +19,10 @@ In this activity, I worked as a cybersecurity analyst for yummyrecipesforme.com 
 
 In this activity, I analyzed a data breach in a social media organization, identified key network vulnerabilities, and proposed network hardening methods, including MFA, strong password policies, and firewall configuration improvements. I also explained how these security measures help reduce risks and prevent future attacks.
 
+### 5.1 Analyze a Security Incident Using the NIST Cybersecurity Framework
+
+In this activity, I analyzed a network security incident using the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF). I applied the framework’s core functions—Identify, Protect, Detect, Respond, and Recover—to evaluate the incident, identify security vulnerabilities, and assess the organization’s response actions. This activity also highlights my ability to apply industry-standard cybersecurity practices in real-world security incident scenarios.
+
 _**Note:** For detailed instructions, see_ [Instructions](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/Instructions.md).
 
 ## Proposed Resolution
@@ -27,3 +31,8 @@ _**Note:** For detailed instructions, see_ [Instructions](https://github.com/S
 - **2.1 Network Attack Analysis Report.md:** [Network Attack Analysis Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/2.1%20Network%20Attack%20Analysis%20Report.md)
 - **3.1 OS Hardening Security Incident Report.md:** [OS Hardening Security Incident Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/3.1%20OS%20Hardening%20Security%20Incident%20Report.md)
 - **4.1 Network Hardening Security Risk Incident Report.md:** [Network Hardening Security Risk Incident Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/4.1%20Network%20Hardening%20Security%20Risk%20Incident%20Report.md)
+- **5.1 NIST CSF Analysis Report.md:** [NIST CSF Analysis Report](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/5.1%20NIST%20CSF%20Analysis%20Report.md)
+
+## Supporting Materials
+
+- **Wireshark TCP_HTTP log.xlsx:** [TCP_HTTP Log](https://github.com/ShehaanN/Cybersecurity-Portfolio/blob/main/II.%20Networks%20and%20Network%20Security/Wireshark%20TCP_HTTP%20log.xlsx)
